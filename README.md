@@ -1,11 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+Sir;Developer+%7C+Tech+Explorer+%7C+Builder;Turning+Ideas+into+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+Jordi;Developer+%7C+Tech+Explorer+%7C+Builder;Turning+Ideas+into+Apps" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <img src="https://i.imgur.com/6Xg9wQk.png" width="100%" alt="Profile Banner"/>
-</p>
 
 ---
 
