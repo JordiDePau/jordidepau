@@ -19,18 +19,18 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JordiDePau&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JordiDePau&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordiDePau&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
 ## 🎧 Now Playing on Spotify
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOURSPOTIFYID)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/1148529276?si=eaef0763871949e3)
 
 
 
