@@ -30,7 +30,7 @@
 ---
 
 ## 🎧 Now Playing on Spotify
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/1148529276?si=eaef0763871949e3)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/1148529276?si)
 
 
 
