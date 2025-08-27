@@ -19,7 +19,8 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JordiDePau&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=JordiDePau&theme=tokyonight](https://awesome-github-stats.azurewebsites.net/user-stats/JordiDePau?cardType=level-alternate&theme=tokyonight&preferLogin=true)" height="160"/>
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/JordiDePau?cardType=level-alternate&theme=tokyonight&preferLogin=true)](https://git.io/awesome-stats-card)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JordiDePau&theme=tokyonight" height="160"/>
 </p>
 
