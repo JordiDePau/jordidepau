@@ -5,36 +5,37 @@
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
+
 💻 Developer with a knack for building **app-based solutions**.  
 📍 Based in Belgium, working with **Java, Spring Boot, React Native, Angular**.  
-📈 Passionate about **clean code, UI/UX polish, and scalable architecture**.  
+📈 Passionate about **clean code, UI/UX polish, and scalable architecture**.
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,reactnative,angular,ts,js,html,css,postgresql,mysql,git,docker,kubernetes" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
 <p align="center">
-  
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=JordiDePau&theme=tokyonight](https://awesome-github-stats.azurewebsites.net/user-stats/JordiDePau?cardType=level-alternate&theme=tokyonight&preferLogin=true)" height="160"/>
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/JordiDePau?cardType=level-alternate&theme=tokyonight&preferLogin=true" height="160"/>
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JordiDePau" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JordiDePau&theme=tokyonight" height="160"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordiDePau&layout=compact&theme=tokyonight" height="160"/>
-</p>
+</p> -->
 
 ---
 
 ## 🎧 Now Playing on Spotify
+
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/1148529276)
-
-
-
 
 <!--
 **JordiDePau/jordidepau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
