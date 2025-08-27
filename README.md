@@ -23,8 +23,8 @@
 
 <p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/JordiDePau?cardType=level-alternate&theme=tokyonight&preferLogin=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JordiDePau&theme=tokyonight&layout=compact" height="140"/>
    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JordiDePau&layout=compact" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JordiDePau&theme=tokyonight&layout=compact" height="160"/>
 </p>
 
 <!-- <p align="center">
