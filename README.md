@@ -27,6 +27,9 @@
    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JordiDePau&layout=compact" height="160"/>
 </p>
 
+## Coding Stats
+<figure><embed src="https://wakatime.com/share/@JordiDePau/d37dfa31-d20f-420f-bf2b-2de429e19363.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@JordiDePau/a700c1bf-63b6-4eae-9efd-a210ebca03bf.svg"></embed></figure>
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordiDePau&layout=compact&theme=tokyonight" height="160"/>
 </p> -->
